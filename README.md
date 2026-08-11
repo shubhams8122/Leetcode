@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shubhams8122/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shubhams8122/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
