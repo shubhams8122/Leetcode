@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhams8122/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/shubhams8122/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shubhams8122/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhams8122/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhams8122/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shubhams8122/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shubhams8122/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1103-distribute-candies-to-people](https://github.com/shubhams8122/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shubhams8122/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
