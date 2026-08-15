@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhams8122/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shubhams8122/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/shubhams8122/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Binary Search
 |  |
 | ------- |
