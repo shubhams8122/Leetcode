@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhams8122/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shubhams8122/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1103-distribute-candies-to-people](https://github.com/shubhams8122/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shubhams8122/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhams8122/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shubhams8122/Leetcode/tree/master/0258-add-digits) |
+| [1103-distribute-candies-to-people](https://github.com/shubhams8122/Leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Number Theory
 |  |
 | ------- |
