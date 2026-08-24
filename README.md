@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shubhams8122/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhams8122/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/shubhams8122/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhams8122/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/shubhams8122/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shubhams8122/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shubhams8122/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shubhams8122/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhams8122/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shubhams8122/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
