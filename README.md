@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhams8122/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shubhams8122/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/shubhams8122/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/shubhams8122/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shubhams8122/Leetcode/tree/master/0509-fibonacci-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shubhams8122/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
 | [1103-distribute-candies-to-people](https://github.com/shubhams8122/Leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Number Theory
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shubhams8122/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
