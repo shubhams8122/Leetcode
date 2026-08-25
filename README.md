@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shubhams8122/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhams8122/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shubhams8122/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhams8122/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shubhams8122/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
