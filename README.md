@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/shubhams8122/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/shubhams8122/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shubhams8122/Leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
