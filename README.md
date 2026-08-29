@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shubhams8122/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shubhams8122/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhams8122/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/shubhams8122/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
 | ------- |
