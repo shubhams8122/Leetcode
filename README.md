@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhams8122/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shubhams8122/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shubhams8122/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhams8122/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shubhams8122/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhams8122/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shubhams8122/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhams8122/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shubhams8122/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shubhams8122/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhams8122/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/shubhams8122/Leetcode/tree/master/0520-detect-capital) |
