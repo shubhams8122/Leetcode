@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhams8122/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shubhams8122/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shubhams8122/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/shubhams8122/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0427-construct-quad-tree](https://github.com/shubhams8122/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shubhams8122/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shubhams8122/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shubhams8122/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shubhams8122/Leetcode/tree/master/0342-power-of-four) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shubhams8122/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubhams8122/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shubhams8122/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/shubhams8122/Leetcode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
