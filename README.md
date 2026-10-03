@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhams8122/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shubhams8122/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shubhams8122/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubhams8122/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/shubhams8122/Leetcode/tree/master/0049-group-anagrams) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhams8122/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shubhams8122/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shubhams8122/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhams8122/Leetcode/tree/master/0242-valid-anagram) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhams8122/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shubhams8122/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubhams8122/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shubhams8122/Leetcode/tree/master/0051-n-queens) |
@@ -246,9 +249,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0427-construct-quad-tree](https://github.com/shubhams8122/Leetcode/tree/master/0427-construct-quad-tree) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shubhams8122/Leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
