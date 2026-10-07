@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shubhams8122/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shubhams8122/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhams8122/Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shubhams8122/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/shubhams8122/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shubhams8122/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhams8122/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shubhams8122/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shubhams8122/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhams8122/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/shubhams8122/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shubhams8122/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
