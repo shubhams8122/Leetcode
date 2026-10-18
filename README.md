@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shubhams8122/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shubhams8122/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shubhams8122/Leetcode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/shubhams8122/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shubhams8122/Leetcode/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/shubhams8122/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhams8122/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shubhams8122/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shubhams8122/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/shubhams8122/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhams8122/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shubhams8122/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhams8122/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
