@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhams8122/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhams8122/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shubhams8122/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhams8122/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shubhams8122/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubhams8122/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shubhams8122/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/shubhams8122/Leetcode/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shubhams8122/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shubhams8122/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubhams8122/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shubhams8122/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shubhams8122/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/shubhams8122/Leetcode/tree/master/1122-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shubhams8122/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shubhams8122/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhams8122/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
