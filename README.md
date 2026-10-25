@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhams8122/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/shubhams8122/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/shubhams8122/Leetcode/tree/master/1122-relative-sort-array) |
+| [1254-number-of-closed-islands](https://github.com/shubhams8122/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shubhams8122/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shubhams8122/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhams8122/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shubhams8122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0427-construct-quad-tree](https://github.com/shubhams8122/Leetcode/tree/master/0427-construct-quad-tree) |
+| [1254-number-of-closed-islands](https://github.com/shubhams8122/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/shubhams8122/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/shubhams8122/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhams8122/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/shubhams8122/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhams8122/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/shubhams8122/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shubhams8122/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
