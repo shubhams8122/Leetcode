@@ -400,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shubhams8122/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhams8122/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/shubhams8122/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
