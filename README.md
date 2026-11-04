@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhams8122/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhams8122/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shubhams8122/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shubhams8122/Leetcode/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/shubhams8122/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhams8122/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhams8122/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shubhams8122/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhams8122/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/shubhams8122/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shubhams8122/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Heap (Priority Queue)
 |  |
