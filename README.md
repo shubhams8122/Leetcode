@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shubhams8122/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhams8122/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhams8122/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/shubhams8122/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhams8122/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhams8122/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shubhams8122/Leetcode/tree/master/0414-third-maximum-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhams8122/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shubhams8122/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shubhams8122/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/shubhams8122/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shubhams8122/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shubhams8122/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shubhams8122/Leetcode/tree/master/0263-ugly-number) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhams8122/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shubhams8122/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhams8122/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shubhams8122/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubhams8122/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shubhams8122/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhams8122/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
